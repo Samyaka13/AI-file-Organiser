@@ -1,10 +1,6 @@
 import { Category } from "../repositories/category.repository";
 import { cosineSimilarity } from "./similarity";
 
-// interface Category {
-//     name: string;
-//     embedding: number[];
-// }
 
 export const findBestCategory = (
     fileEmbedding: number[],
