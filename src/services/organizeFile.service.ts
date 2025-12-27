@@ -14,7 +14,7 @@ import { moveFileSafe } from "../utils/moveFileSafe";
 import { logUndo } from "../utils/undoLogger";
 
 const BASE_DIR =
-    "C:/Users/samya/OneDrive/Desktop/test-downloads";
+    "C:/Organised Downloads"
 export const organizeSingleFile = async (filePath: string) => {
     try {
         const extractedText = await extractTextFromFile(filePath);

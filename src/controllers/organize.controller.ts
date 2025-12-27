@@ -14,7 +14,7 @@ import { dryRunMove } from "../utils/dryRunMove";
 import { moveFileSafe } from "../utils/moveFileSafe";
 import { logUndo } from "../utils/undoLogger";
 const BASE_DIR =
-  "C:/Users/samya/OneDrive/Desktop/test-downloads"
+  "C:/Organised Downloads"
 export const organizeFileController = async (
   req: Request,
   res: Response
