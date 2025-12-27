@@ -1,8 +1,5 @@
-interface Category {
-    id: string;
-    name: string;
-    embedding: number[];
-}
+import { Category } from "../repositories/category.repository";
+
 
 export const decideCategory = (
     similarityScore: number,
