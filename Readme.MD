@@ -249,13 +249,4 @@ Always test with a sandbox folder before using real data.
 Built by **Samyak Ajmera**
 Focused on **real-world engineering, safety, and AI integration**.
 
----
 
-If you want, next I can:
-
-* Review this README for GitHub polish
-* Add screenshots / diagrams
-* Write a How it works internally section
-* Prepare resume-ready project description
-
-Just tell me 
