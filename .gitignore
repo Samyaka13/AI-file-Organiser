@@ -119,3 +119,8 @@ dist
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
 .DS_Store
+
+# Local data files (do not commit)
+src/data/categories.json
+src/data/undo-log.json
+src/data/*.json
